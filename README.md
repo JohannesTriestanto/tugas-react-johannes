@@ -1,8 +1,8 @@
-# 🎬 Tugas React Johannes
+# Tugas React Johannes
 
 Project ini merupakan aplikasi sederhana berbasis **React JS** yang menampilkan informasi profil pengguna serta daftar film favorit dengan tampilan modern bertema biru muda dan biru tua.
 
-## ✨ Fitur Utama
+## Fitur Utama
 
 * Menampilkan profil pengguna
 * Menghitung umur secara otomatis berdasarkan tanggal lahir
@@ -14,7 +14,7 @@ Project ini merupakan aplikasi sederhana berbasis **React JS** yang menampilkan 
 
 ---
 
-## 🚀 Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 * React JS
 * Vite
@@ -23,7 +23,7 @@ Project ini merupakan aplikasi sederhana berbasis **React JS** yang menampilkan 
 
 ---
 
-## 📸 Screenshot
+## Screenshot
 
 ### Halaman Profil
 
@@ -43,7 +43,7 @@ Project ini merupakan aplikasi sederhana berbasis **React JS** yang menampilkan 
 
 ---
 
-## ⚙️ Cara Menjalankan Project
+## Cara Menjalankan Project
 
 Clone repository:
 
@@ -71,7 +71,7 @@ npm run dev
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Johannes Triestanto**
 
