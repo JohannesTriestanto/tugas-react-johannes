@@ -1,16 +1,78 @@
-# React + Vite
+# 🎬 Tugas React Johannes
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Project ini merupakan aplikasi sederhana berbasis **React JS** yang menampilkan informasi profil pengguna serta daftar film favorit dengan tampilan modern bertema biru muda dan biru tua.
 
-Currently, two official plugins are available:
+## ✨ Fitur Utama
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* Menampilkan profil pengguna
+* Menghitung umur secara otomatis berdasarkan tanggal lahir
+* Menampilkan zodiac berdasarkan tanggal lahir
+* Popup zodiac dengan desain modern
+* Daftar film favorit dalam bentuk card
+* Responsive untuk desktop dan mobile
+* UI modern dengan kombinasi warna biru muda dan biru tua
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Teknologi yang Digunakan
 
-## Expanding the ESLint configuration
+* React JS
+* Vite
+* JavaScript
+* CSS3
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📸 Screenshot
+
+### Halaman Profil
+
+![Screenshot 1](./src/assets/Screenshot1.png)
+
+---
+
+### Popup Zodiac
+
+![Screenshot 2](./src/assets/Screenshot2.png)
+
+---
+
+### Film Favorit
+
+![Screenshot 3](./src/assets/Screenshot3.png)
+
+---
+
+## ⚙️ Cara Menjalankan Project
+
+Clone repository:
+
+```bash
+git clone https://github.com/JohannesTriestanto/tugas-react-johannes.git
+```
+
+Masuk ke folder project:
+
+```bash
+cd tugas-react-johannes
+```
+
+Install dependency:
+
+```bash
+npm install
+```
+
+Jalankan project:
+
+```bash
+npm run dev
+```
+
+---
+
+## 👨‍💻 Author
+
+**Johannes Triestanto**
+
+Tugas React JS
