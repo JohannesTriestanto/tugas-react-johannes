@@ -25,7 +25,7 @@ Project ini merupakan aplikasi sederhana berbasis **React JS** yang menampilkan 
 
 ## Screenshot
 
-### Halaman Profil
+### Tampilan Profil
 
 ![Screenshot 1](./src/assets/Screenshot1.png)
 
